@@ -45,6 +45,7 @@ h2 {
 }
 .info {
   width: 50%;
+  margin: 30px;
   padding-left: 10%;
 }
 .info img {
@@ -58,6 +59,14 @@ h2 {
   margin-top: 0%;
   background-image: url(images/shapes/Frame\ 57.jpg);
   background-position: left;
+}
+.color {
+  color: rgb(46, 31, 61);
+  font-size: 35px;
+}
+.recipies-color {
+  color: rgb(240, 10, 60);
+  font-size: 20px;
 }
 .first-part {
   text-align: center;
