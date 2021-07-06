@@ -2,6 +2,7 @@ body {
   font-family: "Roboto", sans-serif;
   margin: 0%;
 }
+
 h1 {
   font-size: 50px;
 }
@@ -13,6 +14,7 @@ h2 {
 .orange-color {
   color: orange;
 }
+
 .foodie {
   display: flex;
   margin-bottom: 0;
@@ -40,6 +42,7 @@ h2 {
   font-weight: 700;
   border-radius: 20px;
 }
+
 .second-sec {
   background-image: url(images/shapes/Frame\ 59.jpg);
 }
@@ -55,10 +58,12 @@ h2 {
   color: plum;
   font-size: 20px;
 }
+
 .third-sec {
   margin-top: 0%;
-  background-image: url(images/shapes/Frame\ 57.jpg);
+  background-image: url(images/shapes/Frame\ 58.jpg);
   background-position: left;
+  padding-bottom: 40px;
 }
 .color {
   color: rgb(46, 31, 61);
@@ -95,14 +100,30 @@ h2 {
   width: 100%;
   height: 200px;
 }
-.third-sec {
-  background-image: url(images/shapes/Frame\ 58.jpg);
+
+.account {
+  display: flex;
+  width: 80%;
+  height: 30%;
+  box-shadow: 10px 10px 80px rgb(155, 144, 144);
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 9%;
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  border-radius: 20px;
 }
+.account-type {
+  padding: 10px 100px;
+}
+
 .last-sec {
   background-color: black;
   color: aliceblue;
   text-align: center;
-  margin-top: 500px;
+  margin-top: 50px;
   padding: 20px;
   padding-bottom: 40px;
 }
